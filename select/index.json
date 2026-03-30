@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "marie",
+  "base_artist": "Aimer",
+  "createdAt": "2026-03-30T14:44:29.356832Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Thinkin' We're In Love (feat. Marie-Mai)",
+      "artist": "Tyler Rich feat. Marie-Mai",
+      "has_synced": true,
+      "path": "select/01_Thinkin'_We're_In_Love_(feat._Marie-Mai)_Tyler_Rich_feat._Marie-Mai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Marie Laveau",
+      "artist": "Bobby Bare",
+      "has_synced": false,
+      "path": "select/02_Marie_Laveau_Bobby_Bare.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Marie Laveau",
+      "artist": "Bobby Bare",
+      "has_synced": true,
+      "path": "select/03_Marie_Laveau_Bobby_Bare.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Down On Marie",
+      "artist": "Little Man Tate",
+      "has_synced": false,
+      "path": "select/04_Down_On_Marie_Little_Man_Tate.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "marie",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/05_marie_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Life Is So Hard (feat. Tina Marie)",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/06_Life_Is_So_Hard_(feat._Tina_Marie)_Eve.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Absolutely Sweet Marie",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/07_Absolutely_Sweet_Marie_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Saint Marie",
+      "artist": "Piano Magic",
+      "has_synced": false,
+      "path": "select/08_Saint_Marie_Piano_Magic.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Saint Marie",
+      "artist": "Piano Magic",
+      "has_synced": true,
+      "path": "select/09_Saint_Marie_Piano_Magic.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Put Your Hands On Me [Feat Kardinal Offishall and Carla-Marie]",
+      "artist": "Crookers",
+      "has_synced": false,
+      "path": "select/10_Put_Your_Hands_On_Me_[Feat_Kardinal_Offishall_and_Carla-Marie]_Crookers.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Oh, Marie",
+      "artist": "Louis Prima",
+      "has_synced": true,
+      "path": "select/11_Oh,_Marie_Louis_Prima.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Speedy Marie",
+      "artist": "Frank Black",
+      "has_synced": true,
+      "path": "select/12_Speedy_Marie_Frank_Black.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sister Marie Says",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": true,
+      "path": "select/13_Sister_Marie_Says_Orchestral_Manoeuvres_In_the_Dark.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jamie Marie",
+      "artist": "Girls",
+      "has_synced": true,
+      "path": "select/14_Jamie_Marie_Girls.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "marie",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_marie_Aimer.txt"
+    }
+  ]
+}
